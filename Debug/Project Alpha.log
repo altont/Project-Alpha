@@ -1,6 +1,6 @@
 ﻿  Project Alpha.cpp
-c:\users\alton\documents\me 493\project alpha\project alpha\project alpha.cpp(43): error C2562: 'arm::pull': 'void' function returning a value
-  c:\users\alton\documents\me 493\project alpha\project alpha\project alpha.cpp(30): note: see declaration of 'arm::pull'
-c:\users\alton\documents\me 493\project alpha\project alpha\project alpha.cpp(54): error C2562: 'arm::pull': 'void' function returning a value
-  c:\users\alton\documents\me 493\project alpha\project alpha\project alpha.cpp(30): note: see declaration of 'arm::pull'
-c:\users\alton\documents\me 493\project alpha\project alpha\project alpha.cpp(100): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alton\documents\me 493\project alpha\project alpha\project alpha.cpp(56): error C2059: syntax error: '}'
+c:\users\alton\documents\me 493\project alpha\project alpha\project alpha.cpp(56): error C2143: syntax error: missing ';' before '}'
+c:\users\alton\documents\me 493\project alpha\project alpha\project alpha.cpp(104): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alton\documents\me 493\project alpha\project alpha\project alpha.cpp(118): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\alton\documents\me 493\project alpha\project alpha\project alpha.cpp(129): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
